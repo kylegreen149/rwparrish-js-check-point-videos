@@ -19,6 +19,6 @@ To aid you in this journey, we provide you with the opportunity to create a "Che
 
 ## Tips for Maximizing This Exercise
 
-1. Avoid overthinking; simply do your best. It's perfectly fine not to know everything at this stage.
+1. Avoid overthinking; simply do your best. It's perfectly fine not to know everything.
 2. Strive to use correct terminology as you discuss the code and address the challenge's questions.
 3. Most importantly, have fun!
