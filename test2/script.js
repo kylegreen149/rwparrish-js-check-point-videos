@@ -12,3 +12,13 @@ Use your function and put in the argument “Ben”. Prove to yourself that the 
 Finally, explain, and if possible provide evidence for your answer: what is the scope of `age`?
 */
 
+
+let firstName = "Cory"
+
+function theName(firstName) {
+
+    return `Hello ${firstName}, you are an amazing person!!`
+
+    const age = 43
+}
+theName("Ben")
